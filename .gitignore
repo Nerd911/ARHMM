@@ -1,0 +1,7 @@
+Data
+.ipynb_checkpoints
+*__pycache__*
+*.log
+*.temp
+Models
+Plots
